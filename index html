@@ -2,9 +2,17 @@
 <html lang="pt-br">
     <head>
         <meta charset-"UTF-8">
-        <title>Barbearia Alura</title>
+        <title>por lugares incriveis</title>
+        <linkrel="stylesheet"href="style.css">
     </head>
     <body>
+    <header>
+                 <h1class="titulo-principal">por lugares incriveis</h1
+                  </header>
+                  <imgid="banner"scr=jpg">
+                  <divclasse="principal">
+                     <h2class="titulo-centralizado">Sobre o por lugares incrivel</h2>
+                 
     <h1>Porque assistir por lugares incriveis? </h1>
     <p>A vida não e facil para ninguem, e muitos dilemas podem afetar nossas jornadas, nesse filme em especifico o enredo contempla de forma poetica, mas tambem crua e realistica,temas como <strong> depressão e a solidão </strong> (mesmo que acompanhada), a perda e o luto e o processo de recuperacão.</p>
     <p>Embora os protagonistas e a trama sejam adolecentes, a sensibilidade da abordagem e capaz de agradar pessoas de todas as idades.</p>
